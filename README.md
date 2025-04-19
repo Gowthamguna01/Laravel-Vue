@@ -1,1 +1,1 @@
-<h1>LEARNING Laravel + vuejs + inertiajs</h1>
+<h1>LEARNING Laravel + vuejs </h1>
