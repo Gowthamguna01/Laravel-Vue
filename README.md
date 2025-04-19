@@ -1,1 +1,2 @@
-<h1>LEARNING Laravel + vuejs </h1>
+<h1>LEARNING</h1>
+<h3>Laravel + vue.js</h3>
