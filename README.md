@@ -1,2 +1,2 @@
-<h1> {{ LEARNING }} </h1>
- <h3> 🗃 Laravel + vue.js</h3>
+<h1> {{ LEARNING...⌨🖱 }} </h1> 
+ <h3> 🗃 Laravel + vue.js </h3>
